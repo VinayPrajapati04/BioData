@@ -76,7 +76,7 @@ nav #icon {
 
     nav {
         /* border: 4px solid rgb(120, 228, 18); */
-        width: 500px;
+        width: 100%;
         margin: auto;
     }
 
@@ -95,12 +95,15 @@ nav #icon {
     }
 
 }
+/* *{
+    border: 2px solid red;
+} */
 
 @media (max-width:909px) {
 
     nav {
 
-        width: auto
+        width: 90%
     }
 
 
